@@ -1,2 +1,2 @@
-# Odev1_PatikaSpringBoot
+# Home Type App
 Ev Tipleri Uygulaması
